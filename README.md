@@ -2,6 +2,10 @@
 
 Vagrantfile para aprovisionar uma maquina Ubuntu com Java e Jenkins instalados.
 
+# Levantando a VM com Jenkins
+
+> vagrant up
+
 # Verificando o funcionamento
 
 > vagrant ssh vm1
