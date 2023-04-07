@@ -16,6 +16,6 @@ Vagrantfile para aprovisionar uma maquina Ubuntu com Java e Jenkins instalados.
 
 No browser: 192.168.56.11:8080
 
-# Descobrindo a senha
+# Descobrindo a "Senha do administrador"
 
 > sudo journalctl -u jenkins
